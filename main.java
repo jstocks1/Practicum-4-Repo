@@ -1,6 +1,6 @@
 // Keywords in Java
 //Jackson Stockstill
-public class Main {
+public class main {
   
   public static void main(String[] args) {
     String class_time = "COSC237";
